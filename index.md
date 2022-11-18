@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Author: Irfan Ansari
+title : This is a blogpost
 ---
 
